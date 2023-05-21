@@ -46,6 +46,12 @@ a {
   text-decoration: none;
   color: #46727e;
 }
+.description {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 25px 0;
+}
 table.dataTable thead th {
   text-align: right;
 }
@@ -109,6 +115,7 @@ footer {
   height: 5vh;
   bottom: 0;
   width: 100%;
+  align-items: center;
 }
 @media screen and (max-width: 980px) {
   footer {
@@ -122,4 +129,7 @@ footer .seperator{
   border-right: 1px dashed white;
   height: 1em;
   margin: 0 10px 0 10px;
+}
+footer a.bmc {
+  height: 35px;
 }
