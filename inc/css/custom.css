@@ -107,6 +107,17 @@ table.dataTable tbody tr.even {
   background-size: 10px 10px;
 }
 
+.about h2 {
+  margin-bottom: 10px;
+  color: #f8990b;
+}
+.about p, .about ul {
+  margin-bottom: 2rem;
+}
+.about .description {
+  margin: 25px;
+}
+
 
 footer {
   display: flex;
