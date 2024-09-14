@@ -8,7 +8,7 @@
 
 ![سكرين شوت](./inc/img/Screenshot.png)
 
-**تقدر تشوفه من هنا :link: [DictArabic](https://mohamedation.com/DictArabic)**
+**تقدر تشوفه من هنا :link: [DictArabic](https://mohamedation.com/Projects/DictArabic/)**
 
 </div>
 
